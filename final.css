@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    color: white;
+}
+body{
+    background-color:#0F0E0E;
+    
+}
+.container{
+    
+    background-color:brown;
+    margin: 100px;
+    border: 10px solid white;
+    height: 350px;
+
+}
+.subcontainer{
+    color: whitesmoke;
+    background-color: #0F0E0E;
+    margin: 10px;
+    border: 10px solid white;
+    height: 310px;   
+}
+
+P{
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    color: #A75D5D ;
+}
+.con01{
+    text-align: center;
+    background-color: #A75D5D;
+    margin: 100px;
+} 
+.con01 p{
+    text-align: center;
+    color: yellow;
+}
+/* ul{
+    text-align: center;
+    font-family: 'Kalam', cursive;
+    color: #A75D5D ;
+} */
